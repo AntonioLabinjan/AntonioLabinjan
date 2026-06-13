@@ -1,6 +1,7 @@
 ## Antonio Labinjan
 
 **univ. bacc. inf.**
+
 Student @ [FIPU](https://fipu.unipu.hr/)
 
 Studying Informatics at the Faculty of Informatics in Pula, with a strong focus on artificial intelligence, computer vision, databases, and applied software engineering.
