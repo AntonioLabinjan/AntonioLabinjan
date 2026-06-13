@@ -9,6 +9,8 @@ Computer vision and AI developer focused on real-time recognition systems, multi
 
 Currently building **Perceptryx** - system centered around face recognition, voice recognition, distributed edge nodes, vector search, and intelligent access/presence decisions.
 
+Also involved in research and academic projects in computer vision and machine learning, while occasionally serving as a teaching assistant/demonstrator on university courses.
+
 ### Main interests
 
 * Computer Vision
@@ -22,3 +24,4 @@ Currently building **Perceptryx** - system centered around face recognition, voi
 ### Tech I work with
 
 Python · OpenCV · PyTorch · TensorFlow · CLIP · FAISS · Redis · FastAPI · SQL · Docker
+
