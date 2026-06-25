@@ -20,9 +20,10 @@ Also involved in research and academic projects in computer vision and machine l
 * Distributed recognition systems
 * Edge AI
 * Databases & backend systems
+* IoT systems & device communication
 * Applied machine learning
 
 ### Tech I work with
 
-Python · OpenCV · PyTorch · TensorFlow · CLIP · FAISS · Redis · FastAPI · SQL · Docker
+Python · OpenCV · PyTorch · TensorFlow · CLIP · FAISS · Redis · FastAPI · SQL · Docker · MQTT · IoT/Embedded systems
 
