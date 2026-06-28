@@ -1,29 +1,73 @@
-## Antonio Labinjan
+# Antonio Labinjan
 
-**univ. bacc. inf.**
+**univ. bacc. inf.**  
+Student @ [Faculty of Informatics in Pula (FIPU)](https://fipu.unipu.hr/)
 
-Student @ [FIPU](https://fipu.unipu.hr/)
+AI and Computer Vision developer focused on building real-time intelligent systems, with interests spanning machine learning, multimodal perception, distributed architectures, and applied AI.
 
-Studying Informatics at the Faculty of Informatics in Pula, with a strong focus on artificial intelligence, computer vision, databases, and applied software engineering.
+Currently developing **Perceptryx** — a multimodal AI perception platform combining computer vision, voice recognition, vector search, distributed edge nodes, and IoT-based device communication for intelligent identification, access control, and presence-aware systems.
 
-Computer vision and AI developer focused on real-time recognition systems, multimodal identity intelligence, and practical machine learning applications.
+My work focuses on bridging research and practical engineering by designing scalable recognition pipelines, experimenting with modern deep learning approaches, and turning machine learning concepts into real-world applications.
 
-Currently building **Perceptryx** - system centered around face recognition, voice recognition, distributed edge nodes, vector search, and intelligent access/presence decisions.
+Alongside software development, I am involved in academic and research activities in computer vision and machine learning, and occasionally contribute to university courses as a teaching assistant/demonstrator.
 
-Also involved in research and academic projects in computer vision and machine learning, while occasionally serving as a teaching assistant/demonstrator on university courses.
+---
 
-### Main interests
+## Main Interests
 
-* Computer Vision
-* Artificial Intelligence
-* Face & voice recognition
-* Distributed recognition systems
-* Edge AI
-* Databases & backend systems
-* IoT systems & device communication
-* Applied machine learning
+- Computer Vision
+- Artificial Intelligence & Deep Learning
+- Face and Voice Recognition
+- Multimodal AI Systems
+- Distributed Recognition Architectures
+- Edge AI & Embedded Systems
+- IoT Device Communication
+- Vector Databases and Similarity Search
+- Backend Systems & Applied Machine Learning
 
-### Tech I work with
+---
 
-Python · OpenCV · PyTorch · TensorFlow · CLIP · FAISS · Redis · FastAPI · SQL · Docker · MQTT · IoT/Embedded systems
+## Technologies
 
+**Programming & Frameworks**
+
+Python · FastAPI · OpenCV · PyTorch · TensorFlow · SQL · Docker
+
+**AI & Computer Vision**
+
+CLIP · FAISS · Deep Learning · Feature Embeddings · Image Understanding · Recognition Systems
+
+**Systems & Infrastructure**
+
+Redis · MQTT · Distributed Systems · IoT · Edge Computing
+
+---
+
+## Selected Projects
+
+### Perceptryx
+
+A multimodal AI perception platform exploring intelligent identity and access systems through computer vision, voice recognition, edge AI nodes, and distributed IoT communication.
+
+### Face Recognition System Using CLIP and FAISS
+
+A research-oriented face recognition pipeline based on visual embeddings and vector similarity search, designed for scalable real-time identification scenarios.
+
+---
+
+## Research & Academic Activities
+
+- Research projects in computer vision and machine learning
+- Academic software engineering and AI projects
+- Teaching assistant/demonstrator roles on university courses
+- Development of applied AI systems combining research concepts with production-oriented engineering
+
+---
+
+## Contact
+
+- GitHub: https://github.com/AntonioLabinjan
+- LinkedIn: [Antonio Labinjan](https://www.linkedin.com/in/antonio-labinjan-41433338a/)
+- Email: alabinjan6@gmail.com
+
+Feel free to reach out for collaborations related to artificial intelligence, computer vision, edge AI, and applied machine learning.
