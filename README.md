@@ -49,10 +49,6 @@ Redis · MQTT · Distributed Systems · IoT · Edge Computing
 
 A multimodal AI perception platform exploring intelligent identity and access systems through computer vision, voice recognition, edge AI nodes, and distributed IoT communication.
 
-### Face Recognition System Using CLIP and FAISS
-
-A research-oriented face recognition pipeline based on visual embeddings and vector similarity search, designed for scalable real-time identification scenarios.
-
 ---
 
 ## Research & Academic Activities
