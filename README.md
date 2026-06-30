@@ -5,7 +5,7 @@ Student @ [Faculty of Informatics in Pula (FIPU)](https://fipu.unipu.hr/)
 
 AI and Computer Vision developer focused on building real-time intelligent systems, with interests spanning machine learning, multimodal perception, distributed architectures, and applied AI.
 
-Currently developing **Perceptryx** — a multimodal AI perception platform combining computer vision, voice recognition, vector search, distributed edge nodes, and IoT-based device communication for intelligent identification, access control, and presence-aware systems.
+Currently developing **Perceptryx** - a multimodal AI perception platform combining computer vision, voice recognition, vector search, distributed edge nodes, and IoT-based device communication for intelligent identification, access control, and presence-aware systems.
 
 My work focuses on bridging research and practical engineering by designing scalable recognition pipelines, experimenting with modern deep learning approaches, and turning machine learning concepts into real-world applications.
 
