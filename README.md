@@ -2,6 +2,7 @@
 
 **univ. bacc. inf.**  
 Student @ [Faculty of Informatics in Pula (FIPU)](https://fipu.unipu.hr/)
+
 AI student intern @ [Istratech](https://www.istratech.hr/)
 
 AI and Computer Vision developer focused on building real-time intelligent systems, with interests spanning machine learning, multimodal perception, distributed architectures, and applied AI.
