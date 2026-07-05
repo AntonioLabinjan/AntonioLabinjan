@@ -1,6 +1,7 @@
 # Antonio Labinjan
 
-**univ. bacc. inf.**  
+**univ. bacc. inf.** 
+
 Student @ [Faculty of Informatics in Pula (FIPU)](https://fipu.unipu.hr/)
 
 AI student intern @ [Istratech](https://www.istratech.hr/)
