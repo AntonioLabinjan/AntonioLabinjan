@@ -69,4 +69,5 @@ A multimodal AI perception platform exploring intelligent identity and access sy
 - LinkedIn: [Antonio Labinjan](https://www.linkedin.com/in/antonio-labinjan-41433338a/)
 - Email: alabinjan6@gmail.com
 
+
 Feel free to reach out for collaborations related to artificial intelligence, computer vision, edge AI, and applied machine learning.
