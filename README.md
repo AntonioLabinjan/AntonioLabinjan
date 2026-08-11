@@ -34,7 +34,7 @@ Alongside software development, I am involved in academic and research activitie
 
 **Programming & Frameworks**
 
-Python · FastAPI · OpenCV · PyTorch · TensorFlow · SQL · Docker
+Python · FastAPI · OpenCV · PyTorch · TensorFlow · SQL · Docker · Arduino
 
 **AI & Computer Vision**
 
