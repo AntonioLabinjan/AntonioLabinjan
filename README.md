@@ -42,7 +42,7 @@ CLIP · FAISS · Deep Learning · Feature Embeddings · Image Understanding · R
 
 **Systems & Infrastructure**
 
-Redis · MQTT · Distributed Systems · IoT · Edge Computing
+Redis · MQTT · Distributed Systems · IoT · Edge Computing · Qdrant 
 
 ---
 
