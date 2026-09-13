@@ -25,8 +25,9 @@ Alongside software development, I am involved in academic and research activitie
 - Distributed Recognition Architectures
 - Edge AI & Embedded Systems
 - IoT Device Communication
-- Vector Databases and Similarity Search
 - Backend Systems & Applied Machine Learning
+- Vector Databases and Similarity Search
+
 
 ---
 
