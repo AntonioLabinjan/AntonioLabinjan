@@ -87,8 +87,8 @@ Actively involved in research spanning computer vision, biometric recognition, a
 
 2. **Real-Time Training-Free Multimodal Identity Verification using Biometric Temporal Score Fusion**
 
-   Presented at *IEEE SISY 2026*, Subotica International Conference on Applied Sciences and Engineering.
-
+   Presented at *IEEE SISY 2026*, Pula International Conference
+   
 **Research interests include:**
 - Visual and speaker representation learning
 - Multimodal biometric verification
