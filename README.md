@@ -1,74 +1,122 @@
 # Antonio Labinjan
 
-### **univ. bacc. inf.** 
+### **univ. bacc. inf.**
 
-#### Student @ [Faculty of Informatics in Pula (FIPU)](https://fipu.unipu.hr/)
+AI Developer · Computer Vision Researcher · Founder of Perceptryx
 
-#### AI student developer @ [Istratech](https://www.istratech.hr/)
+**Student @ [Faculty of Informatics in Pula (FIPU)](https://fipu.unipu.hr/)**  
+**AI Student Developer @ [Istratech](https://www.istratech.hr/)**
 
-AI and Computer Vision developer focused on building real-time intelligent systems, with interests spanning machine learning, multimodal perception, distributed architectures, and applied AI.
+AI developer and researcher focused on computer vision, multimodal recognition, and intelligent real-time systems.
 
-Currently developing **Perceptryx** - a multimodal AI perception platform combining computer vision, voice recognition, vector search, distributed edge nodes, and IoT-based device communication for intelligent identification, access control, and presence-aware systems.
+My work combines applied machine learning, deep learning, distributed architectures, and embedded systems, with a particular interest in building recognition systems that bridge academic research and practical applications.
 
-My work focuses on bridging research and practical engineering by designing scalable recognition pipelines, experimenting with modern deep learning approaches, and turning machine learning concepts into real-world applications.
+I am the founder of **[Perceptryx](https://github.com/AntonioLabinjan)**, an AI venture developing a modular multimodal perception platform for intelligent identity verification, access control, and presence-aware environments. The platform combines visual and voice recognition, vector databases, edge computing, and IoT communication.
 
-Alongside software development, I am involved in academic and research activities in computer vision and machine learning, and occasionally contribute to university courses as a teaching assistant/demonstrator.
+Alongside industry-oriented development, I actively participate in academic research, with published work in computer vision and multimodal recognition. I have also presented research at international scientific conferences and contribute to university education as a demonstrator across several courses at FIPU.
 
 ---
 
 ## Main Interests
 
-- Computer Vision
-- Artificial Intelligence & Deep Learning
-- Face and Voice Recognition
-- Multimodal AI Systems
+- Computer Vision and Visual Recognition
+- Artificial Intelligence and Deep Learning
+- Face and Speaker Recognition
+- Multimodal Machine Learning
+- Representation Learning and Feature Embeddings
+- Biometric Verification and Identity Intelligence
+- Edge AI and Embedded Systems
 - Distributed Recognition Architectures
-- Edge AI & Embedded Systems
-- IoT Device Communication
-- Backend Systems & Applied Machine Learning
 - Vector Databases and Similarity Search
-
+- Applied Machine Learning Research
 
 ---
 
 ## Technologies
 
-**Programming & Frameworks**
+**Programming & Development**
 
-Python · FastAPI · OpenCV · PyTorch · TensorFlow · SQL · Docker · Arduino
+Python · SQL · JavaScript · FastAPI · OpenCV · Docker
 
-**AI & Computer Vision**
+**AI & Machine Learning**
 
-CLIP · FAISS · Deep Learning · Feature Embeddings · Image Understanding · Recognition Systems
+PyTorch · TensorFlow · ONNX · CLIP · FAISS · Deep Learning · Representation Learning · Feature Embeddings
 
-**Systems & Infrastructure**
+**Infrastructure & Systems**
 
-Redis · MQTT · Distributed Systems · IoT · Edge Computing · Qdrant 
+Qdrant · Redis · MQTT · PostgreSQL · MySQL · MongoDB · Distributed Systems · Docker
+
+**Embedded & Edge Computing**
+
+ESP32 · Arduino · IoT · Edge AI · Embedded Communication
 
 ---
 
 ## Selected Projects
 
 ### Perceptryx
+**Founder & AI Developer**
 
-A multimodal AI perception platform exploring intelligent identity and access systems through computer vision, voice recognition, edge AI nodes, and distributed IoT communication.
+A modular multimodal AI perception platform focused on intelligent identity verification and access control.
+
+Combines computer vision, speaker recognition, vector search, distributed edge nodes, and IoT-based device communication to develop privacy-conscious, locally processed recognition systems.
+
+### FaceLog
+**Computer Vision & AI Development**
+
+A real-time face recognition system built around multimodal visual representations and scalable similarity search, exploring CLIP-based feature extraction and FAISS-powered identification.
+
+### FaceQuiz
+**AI Contributor**
+
+Contributed to the AI component of FaceQuiz, working on the integration of artificial intelligence into an interactive software application.
 
 ---
 
-## Research & Academic Activities
+## Research & Publications
 
-- Research projects in computer vision and machine learning
-- Academic software engineering and AI projects
-- Teaching assistant/demonstrator roles on university courses
-- Development of applied AI systems combining research concepts with production-oriented engineering
+Actively involved in research spanning computer vision, biometric recognition, and machine learning.
+
+**Selected Publications**
+
+1. **Face Recognition System Using CLIP and FAISS for Scalable and Real-Time Identification**
+
+   *Mathematics and Computers in Applied Sciences*, 2026.
+
+   DOI: [10.3390/mca31020036](https://doi.org/10.3390/mca31020036)
+
+2. **Real-Time Training-Free Multimodal Identity Verification using Biometric Temporal Score Fusion**
+
+   Presented at *IEEE SISY 2026*, Subotica International Conference on Applied Sciences and Engineering.
+
+**Research interests include:**
+- Visual and speaker representation learning
+- Multimodal biometric verification
+- Dimensionality reduction and compact embeddings
+- Similarity search and vector-based recognition
+- Real-time and resource-efficient inference
+
+---
+
+## Academic Activities
+
+**Faculty of Informatics in Pula (FIPU)**
+
+University demonstrator since October 2023, contributing to practical teaching and student project development across:
+
+- Database Systems II
+- Software Engineering
+- Web Applications
+- Introduction to Probability and Statistics
+
+Involved in academic software engineering projects, student mentoring, and applied AI research.
 
 ---
 
 ## Contact
 
-- GitHub: https://github.com/AntonioLabinjan
-- LinkedIn: [Antonio Labinjan](https://www.linkedin.com/in/antonio-labinjan-41433338a/)
-- Email: alabinjan6@gmail.com
+- **GitHub:** [github.com/AntonioLabinjan](https://github.com/AntonioLabinjan)
+- **LinkedIn:** [Antonio Labinjan](https://www.linkedin.com/in/antonio-labinjan-41433338a/)
+- **Email:** alabinjan6@gmail.com
 
-
-Feel free to reach out for collaborations related to artificial intelligence, computer vision, edge AI, and applied machine learning.
+Feel free to reach out for research collaborations, AI development, computer vision, multimodal systems, and applied machine learning.
